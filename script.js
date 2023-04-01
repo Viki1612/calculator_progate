@@ -93,4 +93,3 @@ decimal.addEventListener('click', (event) => {
 	inputDecimal(event.target.value)
 	updateScreen(currentNumber)
 })
-
